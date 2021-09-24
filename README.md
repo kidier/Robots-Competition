@@ -9,8 +9,7 @@ Code
 
 Category Combat 2019
 https://www.youtube.com/watch?v=4WsPecOyqAc
-![image](https://user-images.githubusercontent.com/53048230/134687023-2ad37d06-83bb-4e6c-8b08-a276cdba2880.png)
-
+![image](https://user-images.githubusercontent.com/53048230/134690784-d2e28c08-7ecb-4dfa-97d0-e73ef97f677b.png)
 
 Drone Racing Competition
 https://www.youtube.com/watch?v=Eas64o1vXSA
